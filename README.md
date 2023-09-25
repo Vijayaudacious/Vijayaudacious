@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayaudacious&label=Profile%20views&color=0e75b6&style=flat" alt="vijayaudacious" /> </p>
 <img align="center" alt="coding" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently, I am working on **React JS**.
 
 - 💬 Ask me about **C,C++,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **vijayaudacious777@gmail.com**
 
-- ⚡ Fun fact **I Think i am self problem solving**
+- ⚡ Fun fact **I Think I am self-problem-solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
